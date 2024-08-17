@@ -1,0 +1,110 @@
+Name: 1 1
+Student ID: 1
+Date of Birth: 1
+GPA: 3
+Start Year: 1
+Completed Credits: 140
+Program: B
+Program Completion: Yes
+Student Status: A
+
+Name: 2 2
+Student ID: 2
+Date of Birth: 2
+GPA: 2
+Start Year: 2
+Completed Credits: 16
+Program: M
+Program Completion: Yes
+Student Status: C
+
+Name: 3 3
+Student ID: 3
+Date of Birth: 3
+GPA: 3
+Start Year: 3
+Completed Credits: 12
+Program: P
+Program Completion: Yes
+Student Status: A
+
+Name: 4 4
+Student ID: 4
+Date of Birth: 4
+GPA: 4
+Start Year: 4
+Completed Credits: 4
+Program: B
+Program Completion: No
+Student Status: A+
+
+Name: 5 5
+Student ID: 5
+Date of Birth: 5
+GPA: 4.3
+Start Year: 5
+Completed Credits: 5
+Program: B
+Program Completion: No
+Student Status: A+
+
+Name: 1 1
+Student ID: 1
+Date of Birth: 1
+GPA: 1
+Start Year: 1
+Completed Credits: 1
+Program: B
+Program Completion: No
+Student Status: D
+
+Name: 1 2
+Student ID: 2
+Date of Birth: 2
+GPA: 2
+Start Year: 2
+Completed Credits: 2
+Program: M
+Program Completion: No
+Student Status: C
+
+Name: 3 3
+Student ID: 3
+Date of Birth: 3
+GPA: 3
+Start Year: 3
+Completed Credits: 140
+Program: B
+Program Completion: Yes
+Student Status: A
+
+Name: 5 5
+Student ID: 5
+Date of Birth: 5
+GPA: 4.3
+Start Year: 5
+Completed Credits: 140
+Program: B
+Program Completion: Yes
+Student Status: A+
+
+Name: 1 1
+Student ID: 1
+Date of Birth: 1
+GPA: 1
+Start Year: 1
+Completed Credits: 1
+Program: B
+Program Completion: No
+Student Status: D
+
+Name: 2 2
+Student ID: 2
+Date of Birth: 2
+GPA: 2
+Start Year: 2
+Completed Credits: 2
+Program: M
+Program Completion: No
+Student Status: C
+
